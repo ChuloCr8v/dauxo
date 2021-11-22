@@ -243,6 +243,7 @@ header {
 .client {
   background: white;
   max-width: 18rem;
+  max-height: 40rem;
   overflow: hidden;
   position: relative;
   border-radius: 1.2rem;
